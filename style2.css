@@ -1,0 +1,82 @@
+.celular{
+    position: absolute;
+    left: 120%;
+    right: 11.46%;
+    top: 0%;
+    bottom: -24.42%;
+}
+
+
+.section_1 {
+    position: absolute;
+    width: 520px;
+    height: 330px;
+    left: 165px;
+    top: -300px;
+}
+
+.section_2 {
+
+    height: 250px;
+    padding: 10px;
+    margin-top: 10px;
+    color: 6F7CB2;
+
+    display: flex;
+    flex-direction: row-reverse;
+    gap: 30px;
+}
+
+
+.red-rose {
+  font-family: "Red Rose", serif;
+  font-optical-sizing: auto;
+  font-size: 36px;
+  font-weight: weight;
+  font-style: normal;
+
+}
+
+
+  .roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #6F7CB2;
+  }
+  
+  
+  .meu-botao {
+    background-color: #111B47; /* Cor de fundo */
+    border: none; /* Sem borda */
+    color: white; /* Cor do texto */
+    padding: 5px 24px; /* Espaçamento interno */
+    text-align: center; /* Alinhamento do texto */
+    text-decoration: none; /* Sem decoração de texto */
+    display: inline-block; /* Mostrar como bloco */
+    font-size: 16px; /* Tamanho da fonte */
+    margin: 4px 2px; /* Margem externa */
+    cursor: pointer; /* Cursor do mouse */
+ 
+    transition-duration: 0.4s; /* Duração da transição */
+}
+
+.meu-botao:hover {
+    background-color: #0b1333; /* Mudar cor de fundo no hover */
+}
+
+
+.o-botao_2 {
+    background-color: #ffffff; /* Cor de fundo */
+    border: 2px solid #0b1333; /* Sem borda */
+    color: #0b1333; /* Cor do texto */
+    padding: 5px 45px; /* Espaçamento interno */
+    text-align: center; /* Alinhamento do texto */
+    text-decoration: none; /* Sem decoração de texto */
+    display: inline-block; /* Mostrar como bloco */
+    font-size: 16px; /* Tamanho da fonte */
+    margin: 4px 2px; /* Margem externa */
+    cursor: pointer; /* Cursor do mouse */
+ 
+    transition-duration: 0.4s; /* Duração da transição */
+}
